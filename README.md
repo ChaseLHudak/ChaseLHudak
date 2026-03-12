@@ -12,42 +12,42 @@
 ---
 
 ### 🔗 Connect With Me
-<p>
-<a href="https://www.linkedin.com/in/chaselhudak/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/chaselhudak/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 Languages & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,git,mysql,c,cpp" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,git,mysql,c,cpp" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph
-
-![snake gif](https://github.com/ChaseLHudak/ChaseLHudak/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/ChaseLHudak/ChaseLHudak/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=ChaseLHudak&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ChaseLHudak&theme=tokyonight" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Chase's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaseLHudak&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
-### 🖥️ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaseLHudak&layout=compact&theme=tokyonight&count_private=true)
-
----
-
-### 🔝 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaseLHudak&layout=compact&count_private=true&include_all_commits=true)
+### 📊 GitHub Stats & Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaseLHudak&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaseLHudak&layout=compact&theme=tokyonight&count_private=true" />
+</p>
 
 ---
 
 ### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=ChaseLHudak&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChaseLHudak&color=70,45,255" />
+</p>
