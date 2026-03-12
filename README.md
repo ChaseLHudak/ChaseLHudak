@@ -49,5 +49,5 @@
 
 ### 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChaseLHudak&color=70,45,255" />
+  <img src="https://komarev.com/ghpvc/?username=ChaseLHudak&color=462dff" />
 </p>
