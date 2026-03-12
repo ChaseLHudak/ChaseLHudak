@@ -37,6 +37,10 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+![snake gif](https://github.com/ChaseLHudak/ChaseLHudak/blob/output/github-contribution-grid-snake.svg)
+
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ChaseLHudak&theme=tokyonight)
 
