@@ -37,7 +37,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Chase's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaseLHudak&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&token=${GH_TOKEN})
+![Chase's GitHub stats](https://your-vercel-project.vercel.app/api?username=ChaseLHudak&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ---
 
