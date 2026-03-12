@@ -39,6 +39,9 @@
 ### 📊 GitHub Stats
 ![Chase's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaseLHudak&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
+### 🖥️ Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaseLHudak&layout=compact&theme=tokyonight&count_private=true)
+
 ---
 
 ### 🔝 Most Used Languages
